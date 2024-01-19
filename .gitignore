@@ -1,1 +1,6 @@
-logrocket_env
+logrocket_env/bin
+logrocket_env/include
+logrocket_env/lib
+logrocket_env/lib64  
+logrocket_env/pyvenv.cfg  
+logrocket_env/share
