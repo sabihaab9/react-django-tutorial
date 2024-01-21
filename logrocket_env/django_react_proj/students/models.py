@@ -10,3 +10,9 @@ class Student(models.Model):
 
     def __str__(self):
         return self.name
+
+
+#after writing out what your model is supposed to look  lke ^^:
+    # create sql commant to create the table, this generates the migrations file & changes the database 
+        # : Python manage.py makemigrations
+    #
